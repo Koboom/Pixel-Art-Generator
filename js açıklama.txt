@@ -1,0 +1,4 @@
+1- bütün class ların atamalarını yap
+2- hakeret kabiliyetlerini belirle. örneğin mouse ile dokunsun. 
+	yani event tanım ise mouse ve touch kabiliyetler
+3- 
